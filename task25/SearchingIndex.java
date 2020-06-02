@@ -1,0 +1,5 @@
+package by.module4.task25;
+
+public enum SearchingIndex {
+	PRICE_LOWER, PRICE_HIGHER, LENGTH_SHORTER, LENGTH_LONGER, TRAVEL_AIM, FOOD, TRANSPORT, DESTINATION
+}
